@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I'm currently a CompScience student in Szeged, Hungary
 <!--
 **bcsabi07/bcsabi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
